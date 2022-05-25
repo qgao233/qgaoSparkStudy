@@ -1,0 +1,40 @@
+{
+    "plugins": [
+        "-lunr", "-search", "search-pro",
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "tbfed-pagefooter",
+        "page-treeview",
+        "popup",
+        "expandable-chapters",
+        "-sharing", "sharing-plus",
+        "page-toc-button"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy qgao 2021-*",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "page-treeview": {
+            "copyright": "Copyright &#169; qgao 2021-*",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": true,
+            "google": true,
+            "qq": true,
+            "twitter": true,
+            "weibo": true
+        },
+        "page-toc-button": {
+            "maxTocDepth": 4,
+            "minTocSize": 2
+        }
+
+    }
+}
