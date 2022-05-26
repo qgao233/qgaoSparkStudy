@@ -15,3 +15,5 @@
 * [spark 内核]()
   * [1 spark 核心组件](chapter4/section1/index.md)
   * [2 spark on Yarn](chapter4/section2/index.md)
+* [spark SQL]()
+  * [1 spark SQL 概述](chapter5/section1/index.md)
