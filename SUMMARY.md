@@ -11,3 +11,4 @@
   * [1 RDD 概念](chapter3/section1/index.md)
   * [2 RDD 数据集](chapter3/section2/index.md)
   * [3 RDD 操作](chapter3/section3/index.md)
+  * [3 RDD 操作实例](chapter3/section4/index.md)
